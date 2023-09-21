@@ -4,6 +4,6 @@ let cat = {
   age: 1
 }
 let dog = {
-  name: 'My current dog Cherry',
+  name: ' Cherry',
   age:7
 }
